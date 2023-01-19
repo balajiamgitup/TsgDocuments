@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^15.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "font-awesome": "^4.7.0"
+  }
+}
